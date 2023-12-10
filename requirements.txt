@@ -1,0 +1,6 @@
+transformers
+langchain
+streamlit
+
+# Hugging Face model
+facebook/bart-base
